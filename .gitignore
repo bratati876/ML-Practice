@@ -1,1 +1,4 @@
 venv
+build
+credit_card_prediction.egg-info
+dist
